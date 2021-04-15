@@ -1,5 +1,5 @@
 {
-  "name": "guard",
+  "name": "slashcommands",
   "version": "1.0.0",
   "description": "Discord Slash Commands",
   "main": "main.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "nope"
+    "url": "git+https://github.com/brisdevs/SlashCommands.git"
   },
   "keywords": [
     "discord",
