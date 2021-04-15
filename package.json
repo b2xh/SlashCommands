@@ -1,0 +1,35 @@
+{
+  "name": "guard",
+  "version": "1.0.0",
+  "description": "Discord Slash Commands",
+  "main": "main.js",
+  "author": {
+    "name": "bris",
+    "url": "https://bris.com",
+    "email": "bris@bris.com"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nope"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord.js",
+    "mongoose",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.3"
+  }
+}
